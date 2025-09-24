@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello! I`m mahsa🙃
+Welcome to my GitHub page🎊
 
 ```python
 class Developer:
@@ -16,7 +17,7 @@ class Developer:
         ]
 
     def introduce(self):
-        print(f"Hi, I'm {self.name} ")
+        print(f"Hi, I'm {self.name}🖐 ")
         print(f"🎓 {self.university}")
         print(f"💻 Role: {self.role}")
         print("\n🚀 Skills:")
@@ -31,3 +32,6 @@ if __name__ == "__main__":
     me = Developer()
     me.introduce()
 ```
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahsa82&show_icons=true&theme=synthwave)<br/>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsa82&theme=synthwave&layout=pie)
