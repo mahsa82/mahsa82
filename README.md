@@ -1,6 +1,7 @@
 ## Hello! I`m mahsa🙃
-Welcome to my GitHub page🎊
+🎊Welcome to my GitHub page🎊
 
+## About ME
 ```python
 class Developer:
     def __init__(self):
@@ -32,6 +33,7 @@ if __name__ == "__main__":
     me = Developer()
     me.introduce()
 ```
-
+## My Activity
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahsa82&show_icons=true&theme=synthwave)<br/>
+## My Projects Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsa82&theme=synthwave&layout=pie)
