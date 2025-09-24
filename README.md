@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**mahsa82/mahsa82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Mahsa Alizade"
+        self.university = "Azad University, Qom"
+        self.role = "Backend Developer (Python, Django, DRF)"
+        self.skills = [
+            "HTML", "CSS", "JavaScript",
+            "Python", "Django", "DRF", "Git"
+        ]
+        self.interests = [
+            "Learning new skills",
+            "Facing different challenges"
+        ]
 
-Here are some ideas to get you started:
+    def introduce(self):
+        print(f"Hi, I'm {self.name} ")
+        print(f"🎓 {self.university}")
+        print(f"💻 Role: {self.role}")
+        print("\n🚀 Skills:")
+        for skill in self.skills:
+            print(f" - {skill}")
+        print("\n💡 Interests:")
+        for interest in self.interests:
+            print(f" - {interest}")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+if __name__ == "__main__":
+    me = Developer()
+    me.introduce()
+```
