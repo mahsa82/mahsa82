@@ -1,39 +1,23 @@
-## Hello! I`m mahsa🙃
-🎊Welcome to my GitHub page🎊
-
-## About ME
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Mahsa Alizade"
-        self.university = "Azad University, Qom"
-        self.role = "Backend Developer (Python, Django, DRF)"
-        self.skills = [
-            "HTML", "CSS", "JavaScript",
-            "Python", "Django", "DRF", "Git"
-        ]
-        self.interests = [
-            "Learning new skills",
-            "Facing different challenges"
-        ]
-
-    def introduce(self):
-        print(f"Hi, I'm {self.name}🖐 ")
-        print(f"🎓 {self.university}")
-        print(f"💻 Role: {self.role}")
-        print("\n🚀 Skills:")
-        for skill in self.skills:
-            print(f" - {skill}")
-        print("\n💡 Interests:")
-        for interest in self.interests:
-            print(f" - {interest}")
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Momo+Trust+Display&size=30&duration=3000&pause=800&color=AA00FF&center=true&vCenter=true&width=700&lines=🌙+Mahsa+Alizade;🔥+Python+Backend+developer)](https://git.io/typing-svg)
 
 
-if __name__ == "__main__":
-    me = Developer()
-    me.introduce()
-```
-## My Activity
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahsa82&show_icons=true&theme=synthwave)<br/>
-## My Projects Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsa82&theme=synthwave&layout=pie)
+-----
+<h1>💻 My skills</h1>
+<div align="center">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+</div>
+
+
+    
