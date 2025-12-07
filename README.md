@@ -18,15 +18,15 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 </div>
-<h1>📊GitHub Stats</h1>
+<h1>📊 GitHub Stats</h1>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahsa82&show_icons=true&theme=tokyonight&title_color=BB86FC&icon_color=BB86FC&text_color=E0E0E0&bg_color=0D1117" alt="Mahsa's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahsa82&layout=compact&theme=tokyonight&title_color=BB86FC&text_color=E0E0E0&bg_color=0D1117" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahsa82&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahsa82&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" />
+</p>
 
 
 ![GitHub Snake Light](https://github.com/mahsa82/mahsa82/blob/output/github-contribution-grid-snake.svg)
